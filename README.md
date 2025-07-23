@@ -10,15 +10,11 @@ This repository contains all the project files and necessary details about appli
 | Project Versatility :page_with_curl:     | Reference documentation of how to plug in any general recommendation model into this project and host it on servers | [:point_down:Refer](https://github.com/inboxpraveen/movie-recommendation-system#4-project-guide)                           |
 | Troubleshooting Issues :muscle:          | Guide to resolve errors faced during reproducibility                                                                | To be Updated                                                                                                              |
 
-Do you like it? :heart: Follow me on [Twitter](https://twitter.com/InboxPraveen), [GitHub](https://github.com/inboxpraveen), & [LinkedIn](https://www.linkedin.com/in/praveen-kumar-inbox/) to say Hi :wave:
-
 <hr>
 
 ## 1. Demo :movie_camera:
 
 In this section, we try to understand through video demo to play around the project and what all can be achieved through it.
-
-1. [Movie Recommendation System Hosted Application Demo](https://movie-recommendation-8g56.onrender.com/)
 
 2. [Running MRS on local System](https://github.com/inboxpraveen/movie-recommendation-system/tree/master#42-running-in-local)
 
@@ -43,8 +39,6 @@ In this section, we try to understand through video demo to play around the proj
 
 ____
 
-***Please be slightly patient while I create and upload the demo video. Follow and star this project to get latest notifications and update. :raised_hands:***
-
 <hr>
 
 ## 2. Requirements :heavy_check_mark:
@@ -57,27 +51,6 @@ To build this project without any errors/issues, the following requirements need
 
 <hr>
 
-## 3. Model Training :small_red_triangle_down:
-
-### 3.1 Training & Inference
-
-For complete guide to training your model and inference using the trained model, refer to "[Movie Recommendation System Python Notebook](https://github.com/inboxpraveen/movie-recommendation-system/blob/master/Movie_Recommendation_System_Complete_Guide.ipynb)".
-
-#### 3.2 Django Web Application Integration
-
-[Here is a detailed blog](https://medium.com/analytics-vidhya/movie-recommendation-system-python-flask-web-application-heroku-deployment-7e39492b640c) explaining about complete approach and directory structure essential to understand Django integration.
-
-<hr>
-
-## 4. Project Guide
-
-#### 4.1 Running it OnRender Free Cloud
-
-[Here is a detailed blog](https://medium.com/analytics-vidhya/movie-recommendation-system-python-flask-web-application-heroku-deployment-7e39492b640c) explaining about complete approach and essential details to deploy not just this application but also any other web-application you like to built.
-
-#### 4.2 Running in Local
-
-I am assuming you have completed [section 2](https://github.com/inboxpraveen/movie-recommendation-system#2-requirements-heavy_check_mark) in the above reference for creating your environment. Let's start by activating it.
 
 ```shell
 /path/to/env/bin/activate
